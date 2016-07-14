@@ -1,0 +1,11 @@
+{
+  "name": "contex",
+  "version": "1.0.0",
+  "description": "Javascript canvas layer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pfg",
+  "license": "MIT"
+}
